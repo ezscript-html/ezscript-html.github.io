@@ -1,15 +1,16 @@
 ### Site metadata ###
 
-site_name: MkDocs Quickstart
-site_description: Starter template for a MkDocs docs site on GH Pages - including CI
-site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
+site_name: EzScript
+site_description: Python based HTML compiler
+site_url: https://ezscript-html.github.io/
 
-repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
+repo_url: https://github.com/ezscript-html/ezscript-html.github.io
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
 
-theme: readthedocs
+theme:
+  name: material
 
 nav:
   - Home: index.md
