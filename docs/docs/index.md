@@ -15,7 +15,7 @@ Compiles into:
 <p style="font-family: Arial;">yo</p>
 ```
 # Other Languages
-You can even use Lua in EzScript! We plan to add more langauges in the future.
+You can even use Lua and Python in EzScript!
 # Static
 All sites are static, since it is HTML, even adding other languages (like Lua) it will still be a static site!
 # Download
