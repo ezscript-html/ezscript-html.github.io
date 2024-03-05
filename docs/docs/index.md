@@ -1,26 +1,24 @@
-# MkDocs Quickstart
->  Started template for a MkDocs docs site on GH Pages - including CI 
+## ⚡ This software is under the BSL-1.0 license, however our parent project is under the BSD-3-Clause license ⚡
+# EzScript
+A programming language that compiles to HTML, written entirely in Python, meant to simplify website coding.  
+Heres an example of EzScript:  
+```
+<title> cool ezscript website
+<heading> this is a heading
+<text> yo
+```
+Compiles into:
 
-[![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/mkdocs-quickstart?style=social)](https://github.com/MichaelCurrin/mkdocs-quickstart)
-
-Use the MkDocs (_make docs_) tool to create build a docs site around markdown docs.
-
-Follow the tutorial to add an existing project or create a project from scratch. The result will look like this project.
-
-
-## Features
-> How to use this project
-
-- **Follow the tutorial instructions**
-    - Install and configure a new or existing project.
-    - Run it locally.
-    - Deploy it.
-- **Add a copy of this project to your repos**
-    - [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?logo=github)](https://github.com/MichaelCurrin/mkdocs-quickstart/generate)
-- **View the live demo**
-    - This site is hosted on GitHub Pages. See if you like it. Other themes are available - see the tutorial.
-
-
-The aim here is not be complete or explain all concepts. It is to provide a reference for common steps and choices needed when setting up a docs site, but still at a beginner-friendly level.
-
-This guide is based on the [mkdocs.org](https://www.mkdocs.org/) tutorial.
+```
+<title>cool ezscript website</title>
+<h1 style="font-family: Arial;">this is a heading</h1>
+<p style="font-family: Arial;">yo</p>
+```
+# Other Languages
+You can even use Lua in EzScript! We plan to add more langauges in the future.
+# Static
+All sites are static, since it is HTML, even adding other languages (like Lua) it will still be a static site!
+# Download
+Click [here](https://github.com/nmsderp/EzScript/releases) to view the releases of EzScript.
+# Beta Download
+On [our GitHub repo](https://github.com/ezscript-html/EzScript-lang) you can clone it to your local machine and run build.bat, however we only support windows building, but if you want to make it for other platforms make a pull request.
